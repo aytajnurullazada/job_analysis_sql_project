@@ -1,4 +1,11 @@
+# macOS
 .DS_Store
+
+# Raw data
 csv_files/
 *.csv
+
+# DBeaver / IDE files
+.dbeaver/
+.project
 
